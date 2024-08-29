@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>Vite + React iwbjdhj</h1>
+      <h1>goit-react-hw-06</h1>
     </>
   );
 }
