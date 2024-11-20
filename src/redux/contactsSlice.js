@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   contacts: {
-    items: [],
+    items: [{ id: 1, contact: "eihfewrgegregefh" }],
   },
 };
 
